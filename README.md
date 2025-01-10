@@ -40,7 +40,7 @@ Antes de comenzar, asegúrate de tener instalado:
 ### Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/g7-alura-proyecto.git
+git clone https://github.com/Atsotomayor/g7-alura-proyecto.git
 cd g7-alura-proyecto
 
 Configurar Base de Datos
@@ -51,7 +51,7 @@ CREATE DATABASE g7_alura;
 
 Configurar las credenciales en el archivo application.properties:
 
-    spring.datasource.url=jdbc:postgresql://localhost:5432/g7_alura
+    spring.datasource.url=jdbc:postgresql://localhost:5432/alura_literatura
     spring.datasource.username=tu_usuario
     spring.datasource.password=tu_contraseña
     spring.jpa.hibernate.ddl-auto=update
