@@ -76,7 +76,7 @@ src/
 │   │   └── service/       # Lógica de negocio
 │   ├── resources/
 │       ├── application.properties  # Configuración de la aplicación
-│       └── static/                 # Archivos estáticos (si aplica)
+│      
 └── test/
     └── java/com/alura/literalura/  # Pruebas unitarias
 
