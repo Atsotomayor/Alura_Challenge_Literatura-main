@@ -1,5 +1,3 @@
-Aquí tienes un archivo README.md para tu proyecto "G7 Alura Proyecto".
-
 # G7 Alura Proyecto
 
 **G7 Alura Proyecto** es una aplicación desarrollada con **Spring Boot** que permite gestionar información sobre libros y facilitar su administración a través de una API REST. Este proyecto está diseñado como una solución escalable y moderna utilizando tecnologías robustas como **Spring Boot**, **JPA/Hibernate** y **PostgreSQL**.
